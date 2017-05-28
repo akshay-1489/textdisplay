@@ -1,0 +1,19 @@
+{
+	"author":"david"
+	"name": "textdisplay",
+	"version":"1.0.0",
+	"description":"display string",
+	"main":"text",
+	"dependencies":{},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/akshay-1489/textdisplay"
+	},
+	"keywords":[
+		"words",
+		"strings"
+	],
+	"engines":{
+		"node":"*"
+	}
+}

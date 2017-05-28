@@ -1,1 +1,1 @@
-# textdisplay
+This module will only display strings.
